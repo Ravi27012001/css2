@@ -1,0 +1,209 @@
+html{
+    background-image: url(./thumb-1920-22875.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 2200px;
+    border: 30px groove rgb(27, 103, 27);
+}
+.class{
+    background-color:black ;
+    color: white;
+    border: 10px solid red;
+}
+.class1{
+    border-radius: 25px;
+    width: 400px;
+    height: 100px;
+    font-size: 30px;
+    padding: 30px 15px 25px;
+    text-align: center;
+     font-style: italic ;
+     position: absolute;
+left: 50px;
+top: 50px;
+     
+}
+.class2{
+    border-radius: 50px;
+    width: 550px;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    /* height: 50px; */
+    padding: 20px 15px 10px 30px;
+    position: absolute;
+    left: 250px;
+    top: 35px;
+}
+.class3{
+    border-radius: 25px;
+    width: 500px;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px 25px 10px;
+    position: absolute;
+    right: 50px;
+    top: 40px;
+}
+.class4{
+    border: 10px dashed red;
+    height: 850px;
+    width: 600px;
+    position: absolute;
+    left: 850px;
+    top: 300px;
+    color: red;
+    text-align: center;
+    
+    background-color: white;
+    /* text-align: center; */
+    font-size: 25px;
+    position: relative;
+}
+.class6{
+    position: relative;
+    top: 5px;
+}
+.class7{
+    text-align: center;
+}
+.class8{
+    width: 170px;
+}
+.class9{
+    background-color: rgb(120, 175, 161);
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 250px;
+    /* left: 50px; */
+right: 400px;     
+border-radius: 250px;
+border: 10px solid rgb(55, 85, 47);
+color: black;
+font-size: 30px;
+text-decoration: underline ;
+font-style: italic;
+
+}
+.class10{
+    width: 495px;
+    position: relative;
+    top:  120px;
+}
+.class11{
+    width: 495px;
+    position: relative;
+    top:  180px;
+}
+.class12{
+    position: relative;
+    top: 70px;
+}
+.class13{
+    position: relative;
+    top: 150px;
+}
+.class14{
+    position: relative;
+    top: 200px;
+}
+.class15{
+    width: 300px;
+    height: 25px;
+    text-align: center;
+    padding: 20px 100px 40px;
+    border-radius: 50px;
+    font-size: 40px;
+     position: relative;
+     top: 100px;
+     right: 50px;
+}
+ /* .class26{
+     background-color: aquamarine;
+     width: 500px;
+     height: 300px;
+     color: rgb(10, 97, 125);
+     font-size: 20px;
+     border: 5px solid rgb(9, 168, 81);
+     border-radius: 50px;
+     /* display: flex; */
+     /* flex-direction: column; */
+ /* }
+  .class27{
+     color: blue;
+     font-weight: bold;
+     font-size: 30px;
+     padding-top: 100px; 
+  }
+ .class30{
+     display: flex;
+     flex-direction: column;
+     flex-wrap: nowrap;
+height: 100px;
+ }
+ .class20{
+     position: absolute;
+     top: 1100px;
+     right: 600px;
+}
+.class21{
+    position: absolute;
+    top: 1100px; */
+    /* right: 50px; */
+     /* left: -250px; 
+}
+.class22{
+    position: absolute;
+    top: 1100px;
+    left: 400px;
+}
+.class23{
+    position: absolute;
+    top: 1500px;
+     right: 600px;
+} */
+/* .class24{
+    position: absolute;
+    top: 1500px;
+    left: -250px;
+}
+.class25{
+    position: absolute;
+    top: 1500px;
+    left: 400px; 
+}   */
+
+.flex-container{
+    position:relative;
+    width: 100%;
+    height: 100%;
+    top: 100px;
+    right: 100%;
+display: flex;
+/* background-color: aqua; */
+/* flex-direction: row; */
+justify-content:space-evenly;
+flex-flow:column wrap;
+color: blue;
+padding: 20px;
+/* margin: 50px; */
+}
+.flex-item{
+border: 5px solid rgb(17, 201, 87);
+border-radius: 20px;
+background-color: aqua;
+/* justify-content:space-evenly; */
+margin: 30px;
+
+height:330px;
+width: 400px;
+
+}
+.class27{
+    color: blue;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 100px; 
+ }
